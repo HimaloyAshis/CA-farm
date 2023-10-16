@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <div>
             <p>Navbar</p>
-            <div>
+            <div className='lg:flex'>
                 <li>Logo</li>
                 <li>Solutions</li>
                 <li>Features</li>

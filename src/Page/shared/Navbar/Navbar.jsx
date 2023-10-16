@@ -3,8 +3,7 @@ import React from 'react';
 const Navbar = () => {
     return (
         <div>
-            <p>Navbar</p>
-            <div className='lg:flex'>
+            <div className='lg:flex max-w-screen-2xl justify-center items-center list-none gap-4 text-center bg-[#] bg-orange-400 py-4 px-3'>
                 <li>Logo</li>
                 <li>Solutions</li>
                 <li>Features</li>

@@ -3,7 +3,7 @@ import React from 'react';
 const Home = () => {
     return (
         <div>
-            <p>Ca farm is set up done</p>
+            <p className='text-black'>Ca farm is set up done</p>
         </div>
     );
 };

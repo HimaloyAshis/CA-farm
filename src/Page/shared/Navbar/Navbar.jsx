@@ -9,7 +9,10 @@ const Navbar = () => {
                 <li>Features</li>
                 <li>Blogs</li>
                 <li>About</li>
-
+            </div>
+            <div>
+                <li>Login</li>
+                <li>Register</li>
             </div>
         </div>
     );
